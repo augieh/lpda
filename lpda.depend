@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+822802674 source:c:\pgmdev\antenna\lpda\lpda\analyze.c
+	<stdlib.h>
+	<math.h>
+	"lpda.h"
+
+822802580 c:\pgmdev\antenna\lpda\lpda\lpda.h
+
+821634136 source:c:\pgmdev\antenna\lpda\lpda\fatal.c
+	<stdio.h>
+	<stdlib.h>
+
+1522469267 source:c:\pgmdev\antenna\lpda\lpda\design.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	"lpda.h"
+
+1522469311 source:c:\pgmdev\antenna\lpda\lpda\io.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"lpda.h"
+
+823300326 source:c:\pgmdev\antenna\lpda\lpda\report.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lpda.h"
+
